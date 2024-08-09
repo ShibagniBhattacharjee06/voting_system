@@ -33,9 +33,5 @@ GetResults: A function to retrieve the voting results for a specific poll.
 Contributing
 We welcome contributions from the community. Feel free to fork this repository, make your changes, and submit a pull request.
 
-License
-This project is licensed under the MIT License.
 
-Contact
-For any questions or support, please reach out to [Your Name] at [Your Email].
 
